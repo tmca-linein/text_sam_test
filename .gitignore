@@ -1,3 +1,5 @@
 DATA/*
 MODELS/*
 sam3
+*.ply
+*.las
